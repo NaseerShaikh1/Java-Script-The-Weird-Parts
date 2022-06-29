@@ -1,0 +1,1 @@
+In This Piece of code i have show that multiple file of javascript but only once is excute at one time it combined and manified code in one file these file dont cline on each other
