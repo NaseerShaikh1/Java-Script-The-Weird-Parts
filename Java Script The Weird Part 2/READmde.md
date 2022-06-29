@@ -1,0 +1,1 @@
+In this code i have use simple program whichh show alert box when click it

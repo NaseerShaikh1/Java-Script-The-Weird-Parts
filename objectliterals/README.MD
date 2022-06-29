@@ -1,0 +1,1 @@
+In this repository i have simply created object literal in javascript and consoled it.
